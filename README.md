@@ -3,7 +3,7 @@
 I am student of New Jersey Institute of Technology
 MS in Data Science               Dec 2021
 
-- 🌱 I’m currently learning ... Data Analytics with R, Applied Statistics and Data Mining.
+- 🌱 I’m currently learning ... Data Analytics with R program, Applied Statistics and Data Mining.
 
 - 🌱  Courses completed     ... Big Data, Data Analytics in Information Systems and Web Systems Development.
 
