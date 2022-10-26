@@ -1,18 +1,17 @@
 ### Hello there 👋
 
-I am student of New Jersey Institute of Technology
+I work for PwC as a Deals Analytics professional analyzing and visualizing data to resolve business problems and strengthen M&A decisions.
 
-MS in Data Science               Dec 2021
+- 🌱 I’m currently learning ... analyzing and visualization of healthcare and telecom data  
 
-- 🌱 I’m currently learning ... Deep Learning and an Independent study on details-on-demand, a Visual Information-Seeking Mantra. 
+- 🌱  Courses completed     ... Machine Learning, Big Data, Data Analytics with R program, Applied Statistics, Data Mining, Data Visualization and Interpretation, Data Analytics in Information Systems, Web Systems Development, Machine Learning, Deep Learning and Data Visualization and Interpretation.
 
-- 🌱  Courses completed     ... Machine Learning, Big Data, Data Analytics with R program, Applied Statistics, Data Mining, Data Visualization and Interpretation, Data Analytics in Information Systems and Web Systems Development.
-
+Thesis on Independent study on details-on-demand, a Visual Information-Seeking Mantra. 
 
 - 📫 How to reach me: ...        https://www.linkedin.com/in/parvathy-neelakanta-sarma, 
-                                  parvathynsarma@gmail.com
-
-- 🔭 I’m currently working on ... Modeling and Visualization.
+                                  pn29@njit.edu
+                                  
+- 🔭 I’m currently working at PwC.
 
 - 😄 Pronouns: ...: Her/She
 
