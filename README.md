@@ -8,8 +8,9 @@ I work as a Deals Analytics professional analyzing and visualizing data to resol
 
 Thesis on Independent study on details-on-demand, a Visual Information-Seeking Mantra. 
 
-- 📫 How to reach me: ...        https://www.linkedin.com/in/parvathy-neelakanta-sarma, 
-                                  pn29@njit.edu
+- 📫 How to reach me: ...         https://www.linkedin.com/in/parvathy-neelakanta-sarma, 
+
+                                   pn29@njit.edu
                                   
 - 🔭 I’m currently working at PwC.
 
