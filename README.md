@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I work for PwC as a Deals Analytics professional analyzing and visualizing data to resolve business problems and strengthen M&A decisions.
+I work as a Deals Analytics professional analyzing and visualizing data to resolve business problems and strengthen M&A decisions.
 
 - 🌱 I’m currently learning ... analyzing and visualization of healthcare and telecom data  
 
