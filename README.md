@@ -13,7 +13,7 @@ Thesis on Independent study on details-on-demand, a Visual Information-Seeking M
 - 📫 How to reach me: ...         [LinkedIn](https://www.linkedin.com/in/parvathy-neelakanta-sarma)
                                    parvathynsarma@gmail.com
                                   
-- 🔭 I’m currently working at PwC.
+- 🔭 Ex PwC.
 
 - 😄 Pronouns: ...: Her/She
 
