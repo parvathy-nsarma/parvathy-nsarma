@@ -11,7 +11,7 @@ I work as a Deals Analytics professional analyzing and visualizing data to resol
 Thesis on Independent study on details-on-demand, a Visual Information-Seeking Mantra. 
 
 - 📫 How to reach me: ...         [LinkedIn](https://www.linkedin.com/in/parvathy-neelakanta-sarma)
-                                   [Gmail](parvathynsarma@gmail.com)
+                                   parvathynsarma@gmail.com
                                   
 - 🔭 I’m currently working at PwC.
 
